@@ -1,4 +1,4 @@
 test:
 	echo "hi"
-	echo "hello" > world.txt
+	echo "help" > world.txt
 	./awe.js
